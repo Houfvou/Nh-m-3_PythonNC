@@ -2,7 +2,7 @@ Nhóm 03
 -- Thành viên --
 2022605506	Vũ Trọng Tấn - Trưởng nhóm
 2022604488	Mai Xuân Bắc
-2022605171	Nguyễn Văn Hào
+2022605298	Nguyễn Văn Hào
 2022605225	Nguyễn Hải Sơn
 2022605112  Trần Bảo Linh
 2023600940  Trần Đức Quân
